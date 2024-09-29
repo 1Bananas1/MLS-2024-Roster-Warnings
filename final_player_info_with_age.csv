@@ -1,0 +1,553 @@
+team,player,primary_position,total_minutes,age_decimal
+Atlanta United,Noah Cobb,CB,1307,19.16700889801506
+Atlanta United,Efrain Morales,CB,244,20.54483230663929
+Atlanta United,Matthew Edwards,CB,2,21.588637919233403
+Atlanta United,Ronald Hernández,CB,245,26.996577686516083
+Atlanta United,Luis Abram,CB,1016,28.56125941136208
+Atlanta United,Stian Rode Gregersen,CB,934,29.34223134839151
+Atlanta United,Derrick Williams,CB,1486,31.673511293634498
+Atlanta United,Ajani Fortune,CM,372,21.722792607802873
+Atlanta United,Tristan Muyumba,CM,881,27.536618754277892
+Atlanta United,Dax McCarty,CM,532,37.388774811772755
+Atlanta United,Bartosz Slisz,DM,861,25.476386036960985
+Atlanta United,Josh Cohen,GK,209,32.08966461327858
+Atlanta United,Brad Guzan,GK,2039,40.02943189596167
+Atlanta United,Brooks Lennon,OB,1619,26.993839835728952
+Atlanta United,Daniel Armando Ríos,S,942,30.372347707049965
+Atlanta United,Jamal Thiaré,S,584,31.470910335386723
+Atlanta United,Luke Brennan,W,92,19.569472963723477
+Atlanta United,Tyler Wolff,W,234,21.59958932238193
+Atlanta United,Edwin Mosquera,W,220,23.229979466119097
+Atlanta United,Nicolas Firmino,W,75,23.637919233401778
+Atlanta United,Xande Silva,W,811,27.511978097193705
+Atlanta United,Saba Lobzhanidze,W,1241,29.75564681724846
+Austin FC,Sebastián Driussi,AM,1133,28.61054072553046
+Austin FC,Brendan Hines-Ike,CB,1741,29.804928131416837
+Austin FC,Julio Cascante,CB,1314,30.96372348
+Austin FC,Matt Hedges,CB,647,34.46817248459959
+Austin FC,Jhojan Valencia,DM,855,28.147843942505133
+Austin FC,Daniel Pereira,DM,863,30.372347707049965
+Austin FC,Alexander Ring,DM,1362,33.446269678302535
+Austin FC,Brad Stuver,GK,2250,33.427104722792606
+Austin FC,Guilherme Biro,OB,1477,24.386036960985628
+Austin FC,Jon Gallagher,OB,1608,28.57221081451061
+Austin FC,Mikkel Desler,OB,34,29.583162217659137
+Austin FC,Hector Jiménez,OB,346,35.878850102669404
+Austin FC,Diego Rubio,S,1306,31.347707049965777
+Austin FC,Gyasi Zardes,S,925,33.04859685147159
+Austin FC,Owen Wolff,W,368,19.722792607802873
+Austin FC,CJ Fodrey,W,68,20.607802874743328
+Austin FC,Osman Bukari,W,57,25.76933607118412
+Austin FC,Ethan Finlay,W,454,34.12251882272416
+CF Montréal,Jules-Anthony Vilsaint,AM,445,21.70362765229295
+CF Montréal,Kwadwo Opoku,AM,241,23.186173853524984
+CF Montréal,Bryce Duke,AM,962,23.55852156057495
+CF Montréal,Dominik Yankov,AM,566,24.145106091718002
+CF Montréal,Fernando Álvarez,CB,1502,21.073237508555785
+CF Montréal,Joaquin Sosa,CB,931,22.692676249144423
+CF Montréal,George Campbell,CB,1406,23.243668720054757
+CF Montréal,Gabriele CoOBo,CB,1233,24.689938398357288
+CF Montréal,Joel Waterman,CB,1582,28.654346338124572
+CF Montréal,Alessandro Biello,CM,15,18.451745379876797
+CF Montréal,Nathan-Dylan Saliba,CM,760,20.059548254620122
+CF Montréal,Rida Zouhir,CM,115,20.824093086926762
+CF Montréal,Samuel Piette,CM,1284,29.854209445585216
+CF Montréal,Victor Wanyama,CM,345,33.23545516769336
+CF Montréal,Jonathan Sirois,GK,2160,23.229979466119097
+CF Montréal,Sebastian Breza,GK,90,26.514715947980836
+CF Montréal,Ousman jabang,OB,3,23.476386036960985
+CF Montréal,Lassi Lappalainen,OB,180,26.073237508555785
+CF Montréal,Raheem Edwards,OB,639,29.18069815195072
+CF Montréal,Sunusi Ibrahim,S,616,21.969199178644764
+CF Montréal,Josef Martínez,S,543,31.33675564681725
+Charlotte FC,Nikola Petković,AM,191,21.57221081451061
+Charlotte FC,Ben Bender,AM,146,23.536618754277892
+Charlotte FC,Adilson Malanda,CB,2070,22.892539356605067
+Charlotte FC,Andrew Privett,CB,2232,24.13347022587269
+Charlotte FC,Bill Tuiloma,CB,198,29.48186173853525
+Charlotte FC,Brandt Bronico,CM,525,29.249144421629023
+Charlotte FC,Djibril Diani,DM,800,26.605065023956193
+Charlotte FC,Ashley Westwood,DM,1170,34.46817248459959
+Charlotte FC,Júnior Urso,DM,235,35.5284052
+Charlotte FC,Kristijan Kahlina,GK,2250,32.15605749486653
+Charlotte FC,João Pedro,OB,459,21.517453798767967
+Charlotte FC,Jaylin Lindsey,OB,270,24.48186173853525
+Charlotte FC,Jere Uronen,OB,1760,30.186173853524984
+Charlotte FC,Nathan Byrne,OB,1980,32.290212183436005
+Charlotte FC,Patrick Agyemang,S,1490,23.867898699520875
+Charlotte FC,Karol Świderski,S,64,27.657084188911703
+Charlotte FC,Nimfasha Berchimas,W,15,16.57494866529774
+Charlotte FC,KeWin Vargas,W,1094,22.71457905544148
+Charlotte FC,Liel Abada,W,1091,22.96372348
+Charlotte FC,Nick Scardina,W,1,23.243668720054757
+Charlotte FC,Iuri Tavares,W,556,23.53388090349076
+Charlotte FC,Tyger Smalls,W,158,
+Chicago Fire,Mauricio Pineda,CB,951,26.92539356605065
+Chicago Fire,Wyatt Omsberg,CB,363,28.996577686516083
+Chicago Fire,Tobias Salquist,CB,449,29.33949349760438
+Chicago Fire,Rafael Czichos,CB,1946,34.35044490075291
+Chicago Fire,Brian Gutiérrez,CM,552,21.257357973990416
+Chicago Fire,Javier Casas,CM,1,21.35044490075291
+Chicago Fire,Kellyn Acosta,CM,970,29.15605749486653
+Chicago Fire,Fabian HeOBers,CM,565,31.092402464065707
+Chicago Fire,Federico Navarro,DM,259,24.531143052703626
+Chicago Fire,Christopher Brady,GK,2160,20.54757015742642
+Chicago Fire,Spencer Richey,GK,90,32.30663929
+Chicago Fire,Justin Reynolds,OB,5,20.127994524298426
+Chicago Fire,Allan Arigoni,OB,740,25.876112251882272
+Chicago Fire,Jonathan Dean,OB,359,27.347707049965777
+Chicago Fire,Andrew Gutman,OB,511,27.966461327857633
+Chicago Fire,Chase Gasper,OB,240,28.65160848733744
+Chicago Fire,Arnaud Souquet,OB,563,32.602327173169066
+Chicago Fire,Georgios Koutsias,S,274,20.61327857631759
+Chicago Fire,Hugo Cuypers,S,2093,27.61601642710472
+Chicago Fire,Tom Barlow,S,315,29.199863107460644
+Chicago Fire,Maren Haile-Selassie,W,355,25.520191649555098
+Chicago Fire,Chris Mueller,W,183,28.059548254620122
+Colorado Rapids,Wayne Frederick,AM,1,20.268309377138944
+Colorado Rapids,Djordje Mihailovic,AM,1301,25.859685147159478
+Colorado Rapids,Michael Edwards,CB,108,23.813141683778234
+Colorado Rapids,Lalas Abubakar,CB,685,29.736481861738536
+Colorado Rapids,Andreas Maxsø,CB,2340,30.50650239561944
+Colorado Rapids,Kimani Stewart-Baynes,DM,25,19.673511293634498
+Colorado Rapids,Oliver Larraz,DM,1322,23.010266940451746
+Colorado Rapids,Cole Bassett,DM,1340,23.145106091718002
+Colorado Rapids,Connor Ronan,DM,975,26.539356605065024
+Colorado Rapids,Jasper Löffelsend,DM,223,27.026694045174537
+Colorado Rapids,Zack Steffen,GK,2340,29.465434633812457
+Colorado Rapids,Jackson Travis,OB,149,20.57221081451061
+Colorado Rapids,Sebastian Anderson,OB,352,22.117043121149898
+Colorado Rapids,Sam Vines,OB,1946,25.303901437371664
+Colorado Rapids,Keegan Rosenberry,OB,1687,30.774811772758383
+Colorado Rapids,Darren Yapi,S,369,19.83504449007529
+Colorado Rapids,Rafael Navarro,S,2063,24.432580424366872
+Colorado Rapids,Calvin Harris,W,933,24.501026694045173
+Colorado Rapids,Kevin Cabral,W,692,25.194387405886378
+Colorado Rapids,Omir Fernandez,W,899,25.61327857631759
+Colorado Rapids,Jonathan Lewis,W,222,27.292950034223136
+Columbus Crew,Cole Mrowka,AM,1,18.45448323066393
+Columbus Crew,Taha Habroune,AM,73,18.621492128678987
+Columbus Crew,Marino Hinestroza,AM,249,22.199863107460644
+Columbus Crew,Aziel Jackson,AM,240,22.906228610540726
+Columbus Crew,Alexandru Mățan,AM,476,25.059548254620122
+Columbus Crew,Diego Rossi,AM,1358,26.542094455852155
+Columbus Crew,Christian Ramirez,AM,510,33.459958932238195
+Columbus Crew,Malte Amundsen,CB,1336,26.605065023956193
+Columbus Crew,Yevhen Cheberko,CB,973,26.657084188911703
+Columbus Crew,Steven Moreira,CB,1618,30.10335386721424
+Columbus Crew,Rudy Camacho,CB,1588,33.54209445585216
+Columbus Crew,Sean Zawadzki,CM,583,24.413415468856947
+Columbus Crew,Derrick Jones,CM,128,27.54757015742642
+Columbus Crew,Darlington Nagbe,CM,1685,34.16974674880219
+Columbus Crew,Patrick Schulte,GK,1710,23.520191649555098
+Columbus Crew,Nicholas Hagen,GK,236,28.13347022587269
+Columbus Crew,Evan Bush,GK,124,38.539356605065024
+Columbus Crew,Maximilian Arfsten,OB,1118,23.418891170431213
+Columbus Crew,Mohamed Farsi,OB,1122,24.761122518822724
+Columbus Crew,Yaw Yeboah,OB,717,27.479123887748116
+Columbus Crew,Jacen Russell-Rowe,S,392,22.01848049281314
+Columbus Crew,Cucho,S,1289,25.416153319644078
+D.C. United,Gabriel Pirani,AM,268,22.438056125941138
+D.C. United,Theodore Ku-Dipietro,AM,435,22.643394934976044
+D.C. United,Matai Akinmboni,CB,351,17.92539356605065
+D.C. United,Matti Peltola,CB,553,22.213552361396303
+D.C. United,Hayden Sargis,CB,30,22.383299110198493
+D.C. United,Garrison Tubbs,CB,406,22.588637919233403
+D.C. United,Lucas Bartlett,CB,2020,27.150581793292265
+D.C. United,Christopher McVey,CB,1405,27.438056125941138
+D.C. United,Jackson Hopkins,CM,508,20.21902806297057
+D.C. United,Mateusz Klich,CM,1021,34.26830937713895
+D.C. United,Alex Bono,GK,1800,30.40246406570842
+D.C. United,Tyler Miller,GK,450,31.522929500342233
+D.C. United,Aaron Herrera,OB,1080,27.28747433264887
+D.C. United,Conner Antley,OB,231,29.49555099247091
+D.C. United,Pedro Santos,OB,567,36.41067761806981
+D.C. United,Jacob Murrell,S,384,20.476386036960985
+D.C. United,Jeremy Garay,S,10,21.468172484599588
+D.C. United,Cristián Dajome,S,344,30.711841204654345
+D.C. United,Christian Benteke,S,1755,33.79671457905544
+D.C. United,Kristian Fletcher,W,111,19.12251882272416
+D.C. United,Jared Stroud,W,688,28.194387405886378
+FC Cincinnati,Stiven Jimenez,AM,4,17.238193018480494
+FC Cincinnati,Luciano Acosta,AM,1630,30.303901437371664
+FC Cincinnati,Kipp Keller,CB,805,24.18343600273785
+FC Cincinnati,Ian Murphy,CB,1816,24.67624914442163
+FC Cincinnati,Miles Robinson,CB,1509,27.517453798767967
+FC Cincinnati,Matt Miazga,CB,1413,29.16974674880219
+FC Cincinnati,Alvas Powell,CB,164,30.17248459958932
+FC Cincinnati,Nick Hagglund,CB,462,32.01574264202601
+FC Cincinnati,Malik Pinto,CM,139,22.114305270362767
+FC Cincinnati,Pavel Bucha,CM,2203,26.525667351129364
+FC Cincinnati,Obinna Nwobodo,CM,1639,27.80766598220397
+FC Cincinnati,Roman Celentano,GK,1890,24.01574264202601
+FC Cincinnati,Evan Louro,GK,90,28.66803559206023
+FC Cincinnati,Alec Kann,GK,270,34.11704312
+FC Cincinnati,Isaiah Foster,OB,4,21.10609171800137
+FC Cincinnati,Bret Halsey,OB,404,24.301163586584533
+FC Cincinnati,Luca Orellano,OB,1609,24.49555099247091
+FC Cincinnati,Yamil Asad,OB,462,30.147843942505133
+FC Cincinnati,DeAndre Yedlin,OB,759,31.197125256673512
+FC Cincinnati,Kevin Kelsy,S,789,20.147843942505133
+FC Cincinnati,Gerardo Valenzuela,S,475,20.39425051334702
+FC Cincinnati,Corey Baird,S,756,28.637919233401778
+FC Cincinnati,Sergio Santos Gomes,S,588,30.04312114989733
+FC Cincinnati,Yuya Kubo,S,592,30.739219712525667
+FC Dallas,Bernard Kamungo,AM,290,22.71731690622861
+FC Dallas,Tomas Pondeca,AM,71,22.944558521560573
+FC Dallas,Jesús Ferreira,AM,731,23.739219712525667
+FC Dallas,Tsiki Ntsabeleng,AM,349,26.61054072553046
+FC Dallas,Eugene Ansah,AM,168,29.761122518822724
+FC Dallas,Nkosi Tafari,CB,1738,27.522929500342233
+FC Dallas,Sam Junqua,CB,1383,27.862422997946613
+FC Dallas,Sebastien Ibeagha,CB,1980,32.662559890485966
+FC Dallas,Omar Gonzalez,CB,706,35.941820670773446
+FC Dallas,Nolan Norris,CM,130,19.588637919233403
+FC Dallas,Patrickson Delgado,CM,415,20.92539356605065
+FC Dallas,Paxton Pomykal,CM,7,24.758384668035593
+FC Dallas,Liam Fraser,CM,1262,26.59958932238193
+FC Dallas,Sebastian Lletget,CM,474,32.045859000684466
+FC Dallas,Asier Illarramendi,CM,1062,34.53388090349076
+FC Dallas,Carle-Fred Sainte,DM,73,22.114305270362767
+FC Dallas,Maarten Paes,GK,2250,26.35044490075291
+FC Dallas,Dante Sealy,OB,488,21.424366872005475
+FC Dallas,HeOBert Endeley,OB,60,22.947296372347708
+FC Dallas,Marco Farfan,OB,763,25.854209445585216
+FC Dallas,Ema Twumasi,OB,556,27.33949349760438
+FC Dallas,Paul Arriola,OB,749,29.621492128678987
+FC Dallas,Logan Farrington,S,287,22.76659822039699
+FC Dallas,Petar Musa,S,1831,26.54483230663929
+FC Dallas,Tarik Scott,W,37,19.407939767282684
+Houston Dynamo,McKinze Gaines,AM,91,26.550308008213552
+Houston Dynamo,Amine Bassi,AM,1284,26.813141683778234
+Houston Dynamo,Micael,CB,1959,24.10609171800137
+Houston Dynamo,Ethan Bartlow,CB,757,24.629705681040384
+Houston Dynamo,Erik Sviatchenko,CB,1544,32.96098562628337
+Houston Dynamo,Brooklyn Raines,DM,97,19.525667351129364
+Houston Dynamo,Artur,DM,1881,28.525667351129364
+Houston Dynamo,Andrew TaOBell,GK,288,30.95277207392197
+Houston Dynamo,Steve Clark,GK,1872,38.43258042436687
+Houston Dynamo,Jefferson Valverde,OB,13,25.37782340862423
+Houston Dynamo,Griffin Dorsey,OB,1765,25.542094455852155
+Houston Dynamo,Tate Schmitt,OB,225,27.31211498973306
+Houston Dynamo,Franco Escobar,OB,798,29.577686516084874
+Houston Dynamo,Daniel Steres,OB,724,30.372347707049965
+Houston Dynamo,Gabe Segal,S,178,23.34223134839151
+Houston Dynamo,Sebastian Kowalczyk,S,1000,26.078713210130047
+Houston Dynamo,Sebastián Ferreira,S,586,26.59958932238193
+Houston Dynamo,Ezequiel Ponce,S,45,27.476386036960985
+Houston Dynamo,Aliyu Ibrahim,W,1249,22.67624914442163
+Houston Dynamo,AdaOBerto Carrasquilla,W,851,25.810403832991103
+Houston Dynamo,Latif Blessing,W,507,27.722792607802873
+Houston Dynamo,Brad Smith,W,112,30.44626967830253
+LA Galaxy,Jalen Neal,CB,1027,21.073237508555785
+LA Galaxy,Eriq Zavaleta,CB,159,32.13347022587269
+LA Galaxy,Maya Yoshida,CB,2315,36.073237508555785
+LA Galaxy,Martín Cáceres,CB,1070,37.45174538
+LA Galaxy,Edwin Cerrillo,CM,734,23.96372348
+LA Galaxy,Isaiah Parente,CM,26,24.511978097193705
+LA Galaxy,Riqui Puig,CM,1065,25.10335386721424
+LA Galaxy,Marky Delgado,CM,843,29.344969199178646
+LA Galaxy,Gastón Brugman,CM,628,32.034907597535934
+LA Galaxy,Tucker Lepley,DM,45,22.673511293634498
+LA Galaxy,John McCarthy,GK,2160,32.21081451060917
+LA Galaxy,Julián Aude,OB,1620,21.490075290896645
+LA Galaxy,Mauricio Cuevas,OB,148,21.607802874743328
+LA Galaxy,John Nelson,OB,563,26.191649555099247
+LA Galaxy,Miki Yamane,OB,1846,30.744695414099933
+LA Galaxy,Dejan Joveljić,S,1437,25.11978097193703
+LA Galaxy,Miguel Berry,S,564,27.010266940451746
+LA Galaxy,Gabriel Chaves,W,985,23.605065023956193
+LA Galaxy,Joseph Paintsil,W,831,26.632443531827516
+LA Galaxy,Diego Fagúndez,W,697,29.59685147
+Minnesota United,Devin Padelford,CB,735,21.711841204654345
+Minnesota United,Hugo Bacharach,CB,90,23.147843942505133
+Minnesota United,Morris Duggan,CB,49,23.906228610540726
+Minnesota United,Carlos Harvey,CB,270,24.62696783025325
+Minnesota United,Miguel Tapias,CB,1629,27.695414099931554
+Minnesota United,Michael Boxall,CB,2025,36.08966461327858
+Minnesota United,Moses Nyeman,CM,112,20.87337440109514
+Minnesota United,Alejandro Bran,CM,233,23.542094455852155
+Minnesota United,Hassani Dotson,CM,957,27.12251882272416
+Minnesota United,Robin Lod,CM,506,31.424366872005475
+Minnesota United,Wil Trapp,CM,1392,31.67898699520876
+Minnesota United,Dayne St. Clair,GK,1530,27.36413415468857
+Minnesota United,Clint IWin,GK,450,35.46817248459959
+Minnesota United,Joseph Rosales,OB,690,23.870636550308006
+Minnesota United,D.J. Taylor,OB,868,27.06776180698152
+Minnesota United,Zarek Valentin,OB,28,33.12251882272416
+Minnesota United,Patrick Weah,S,35,20.791238877481177
+Minnesota United,Bongokuhle Hlongwane,S,288,24.249144421629023
+Minnesota United,Tani Oluwaseyi,S,711,24.347707049965777
+Minnesota United,Jordan Adebayo-Smith,S,103,24.689938398357288
+Minnesota United,Teemu Pukki,S,821,34.47638603696099
+Minnesota United,Jeong Sangbin,W,572,22.468172484599588
+Minnesota United,Samuel Shashoua,W,15,25.35318275154004
+Minnesota United,Franco Fragapane,W,286,31.618754277891856
+Nashville SC,Hany Mukhtar,AM,1059,29.49828884325804
+Nashville SC,Jack Maher,CB,1978,24.895277207392198
+Nashville SC,Josh Bauer,CB,895,26.161533196440793
+Nashville SC,Lukas MacNaughton,CB,410,29.53388090349076
+Nashville SC,Walker Zimmerman,CB,1118,31.33675564681725
+Nashville SC,Brent Kallman,CB,525,33.96098562628337
+Nashville SC,Isaiah Jones,CM,8,18.449007529089666
+Nashville SC,Randall Leal,CM,6,27.681724845995895
+Nashville SC,Amar Sejdic,CM,139,27.80766598220397
+Nashville SC,Aníbal Godoy,CM,770,34.60780287474333
+Nashville SC,Dru YeaWood,DM,783,24.588637919233403
+Nashville SC,Brian Anunga,DM,622,28.111567419575632
+Nashville SC,Sean Davis,DM,644,31.61327857631759
+Nashville SC,Elliot Panicco,GK,342,27.83778234086242
+Nashville SC,Joe Willis,GK,1906,36.111567419575636
+Nashville SC,Shaq Moore,OB,706,27.88158795345654
+Nashville SC,Daniel Lovitz,OB,978,30.372347707049965
+Nashville SC,Taylor Washington,OB,170,31.09514031485284
+Nashville SC,Forster Ajago,S,281,23.09514031485284
+Nashville SC,Sam Surridge,S,1129,26.145106091718002
+Nashville SC,Teal Bunbury,S,740,34.56125941136208
+Nashville SC,Joseph Skinner,W,5,21.479123887748116
+Nashville SC,Jacob ShaffeOBurg,W,375,24.815879534565365
+Nashville SC,Alex Muyl,W,808,28.971937029431896
+Nashville SC,Tyler Boyd,W,359,29.722792607802873
+New England Revolution,Carles Gil,AM,1257,31.826830937713893
+New England Revolution,Xavier Arreaga,CB,1466,29.97741273100616
+New England Revolution,David Romney,CB,1318,31.27104722792608
+New England Revolution,Jonathan Mensah,CB,232,34.186173853524984
+New England Revolution,Noel Buck,DM,256,19.45722108145106
+New England Revolution,Ian Harkes,DM,732,29.473648186173854
+New England Revolution,Mark-Anthony Kaye,DM,606,29.799452429842574
+New England Revolution,Matt Polster,DM,1215,31.281998631074607
+New England Revolution,Earl Edwards Jr.,GK,90,32.65434633812457
+New England Revolution,Peyton Miller,OB,81,17.347707049965777
+New England Revolution,Ryan Spaulding,OB,330,26.026694045174537
+New England Revolution,Brandon Bye,OB,287,28.80766598220397
+New England Revolution,Nick Lima,OB,1166,29.840520191649556
+New England Revolution,Andrew Farrell,OB,311,32.46543463381246
+New England Revolution,Malcolm Fry,S,31,19.347707049965777
+New England Revolution,Giacomo Vrioni,S,1565,25.930869267624914
+New England Revolution,Bobby Wood,S,207,31.84599589322382
+New England Revolution,Esmir Bajraktarevic,W,900,19.528405201916495
+New England Revolution,Jack Panayotou,W,90,20.290212183436005
+New England Revolution,Dylan Borrero,W,392,22.706365503080082
+New England Revolution,Tomás Chancalay,W,540,25.71731690622861
+New England Revolution,Nacho Gil,W,352,29.02943189596167
+New England Revolution,Emmanuel Boateng,W,342,30.673511293634498
+New England Revolution,Thomas McNamara,W,104,33.61875427789185
+New York Red Bulls,Wikelman Carmona,AM,495,21.569472963723477
+New York Red Bulls,Emil Forsberg,AM,687,32.90896646132786
+New York Red Bulls,Noah Eile,CB,1788,22.16974674880219
+New York Red Bulls,Aidan O'Connor,CB,16,22.95277207392197
+New York Red Bulls,Andrés Reyes,CB,932,25.032169746748803
+New York Red Bulls,Sean Nealis,CB,1690,27.684462696783026
+New York Red Bulls,Ronald Donkor,CM,355,19.83230663928816
+New York Red Bulls,Peter Stroud,CM,255,22.407939767282684
+New York Red Bulls,Daniel Edelman,CM,1335,30.372347707049965
+New York Red Bulls,Carlos Coronel,GK,1710,27.725530458590008
+New York Red Bulls,Ryan Meara,GK,540,33.84599589322382
+New York Red Bulls,John Tolkin,OB,1402,22.138945927446954
+New York Red Bulls,Dylan Nealis,OB,1350,26.139630390143736
+New York Red Bulls,Kyle Duncan,OB,554,27.117043121149898
+New York Red Bulls,Julian Hall,S,74,16.490075290896645
+New York Red Bulls,Mohammed Sofo,S,28,19.88706366
+New York Red Bulls,Roald Mitchell,S,18,21.684462696783026
+New York Red Bulls,Elias Manoel,S,1114,22.804928131416837
+New York Red Bulls,Dante Vanzeir,S,1497,26.427104722792606
+New York Red Bulls,Lewis Morgan,S,798,27.971937029431896
+New York Red Bulls,Cory Burke,S,172,32.72826830937714
+New York Red Bulls,Serge Ngoma,W,12,19.197125256673512
+New York Red Bulls,Dennis Gjengaar,W,391,20.569472963723477
+New York Red Bulls,Cameron Harper,W,259,22.83504449007529
+Orlando City,Martín Ojeda,AM,501,25.813141683778234
+Orlando City,David Brekalo,CB,989,25.79671457905544
+Orlando City,Rodrigo Schlegel,CB,1620,27.462696783025326
+Orlando City,Robin Jansson,CB,1850,32.84599589322382
+Orlando City,Shakur Mohammed,CM,4,21.065023956194388
+Orlando City,Nicolás Lodeiro,CM,941,35.498288843258045
+Orlando City,Jeorgio Kocevski,DM,45,22.086926762491444
+Orlando City,César Araujo,DM,1130,23.465434633812457
+Orlando City,Wilder Cartagena,DM,663,29.99110198494182
+Orlando City,Felipe,DM,149,33.97193703
+Orlando City,Javier Otero,GK,62,21.83778234086242
+Orlando City,Mason Stajduhar,GK,388,26.799452429842574
+Orlando City,Pedro Gallese,GK,1800,34.57221081451061
+Orlando City,Alexander Freeman,OB,9,20.114305270362767
+Orlando City,Michael Halliday,OB,89,21.659822039698838
+Orlando City,Dagur Dan Þórhallsson,OB,1399,24.383299110198493
+Orlando City,Rafael Santos,OB,1160,26.621492128678987
+Orlando City,Kyle Smith,OB,477,32.695414099931554
+Orlando City,Yutaro Tsukada,S,1,23.145106091718002
+Orlando City,Ramiro Enrique,S,244,23.37782340862423
+Orlando City,Duncan McGuire,S,1324,23.621492128678987
+Orlando City,Jack Lynn,S,232,24.687200547570157
+Orlando City,Luis Muriel,S,1202,33.427104722792606
+Orlando City,Facundo Torres,W,473,24.435318275154003
+Orlando City,Iván Angulo,W,678,25.49555099247091
+Portland Timbers,Evander,AM,1256,26.279260780287473
+Portland Timbers,Zac McGraw,CB,839,27.281998631074607
+Portland Timbers,Kamal Miller,CB,1080,27.344969199178646
+Portland Timbers,Miguel Araujo,CB,1029,29.906228610540726
+Portland Timbers,David Ayala,DM,689,22.150581793292265
+Portland Timbers,Cristhian Paredes,DM,883,26.33949349760438
+Portland Timbers,Eryk Williamson,DM,543,27.27378507871321
+Portland Timbers,Diego Chará,DM,1345,38.45722108145106
+Portland Timbers,James Pantemis,GK,1080,27.577686516084874
+Portland Timbers,Maxime Crépeau,GK,1127,30.358658453114305
+Portland Timbers,Juan David Mosquera,OB,1815,22.0403833
+Portland Timbers,Claudio Bravo,OB,1115,27.520191649555098
+Portland Timbers,Eric Miller,OB,633,31.67898699520876
+Portland Timbers,Felipe Mora,S,1246,33.97193703
+Portland Timbers,Antony,W,530,23.032169746748803
+Portland Timbers,Santiago Moreno,W,1318,24.413415468856947
+Real Salt Lake,Pablo Ruíz,AM,90,25.750171115674195
+Real Salt Lake,Matt Crooks,AM,1291,30.66529774
+Real Salt Lake,Maikel Chang,AM,120,33.421629021218344
+Real Salt Lake,Philip Quinton,CB,460,24.843258042436688
+Real Salt Lake,Brayan Vera,CB,1658,25.67898699520876
+Real Salt Lake,Justen Glad,CB,1439,27.55852156057495
+Real Salt Lake,Marcelo Silva,CB,181,35.498288843258045
+Real Salt Lake,Nelson Palacio,DM,464,23.26009582477755
+Real Salt Lake,Noel Caliskan,DM,123,24.059548254620122
+Real Salt Lake,Braian Ojeda,DM,1914,24.229979466119097
+Real Salt Lake,Emeka Eneli,DM,1841,24.922655715263517
+Real Salt Lake,Gavin Beavers,GK,630,19.39151266255989
+Real Salt Lake,Zac MacMath,GK,1620,33.11978097193703
+Real Salt Lake,Tommy Silva,OB,19,22.577686516084874
+Real Salt Lake,Alexandros Katranis,OB,1472,26.37782340862423
+Real Salt Lake,Andrew Brody,OB,1392,29.380561259411362
+Real Salt Lake,Bryan Oviedo,OB,313,34.58590006844627
+Real Salt Lake,Zavier Gozo,S,12,17.49555099247091
+Real Salt Lake,Benji Michel,S,16,26.908966461327857
+Real Salt Lake,Anderson Julio,S,734,28.303901437371664
+Real Salt Lake,Cristian Arango,S,1370,29.531143052703626
+Real Salt Lake,Diego Luna,W,1398,21.034907597535934
+Real Salt Lake,Carlos Gómez,W,1807,22.021218343600275
+Real Salt Lake,Matthew Bell,W,20,22.065023956194388
+San Jose Earthquakes,Rodrigues,CB,2038,26.944558521560573
+San Jose Earthquakes,Tanner Beason,CB,1047,27.49281314168378
+San Jose Earthquakes,Bruno Wilson,CB,861,27.73100616016427
+San Jose Earthquakes,Daniel Munie,CB,645,30.372347707049965
+San Jose Earthquakes,Michael Baldisimo,CM,6,24.435318275154003
+San Jose Earthquakes,Jack Skahan,CM,261,26.61601642710472
+San Jose Earthquakes,Alfredo Morales,CM,247,34.355920602327174
+San Jose Earthquakes,Niko Tsakiris,DM,499,19.251882272416154
+San Jose Earthquakes,Jackson Yueill,DM,711,27.503764544832308
+San Jose Earthquakes,Carlos Gruezo,DM,622,29.418891170431213
+San Jose Earthquakes,Jacob Jackson,GK,270,24.40246406570842
+San Jose Earthquakes,Daniel,GK,360,25.216290212183434
+San Jose Earthquakes,William YaOBrough,GK,1620,35.50102669404517
+San Jose Earthquakes,Oscar Verhoeven,OB,61,18.303901437371664
+San Jose Earthquakes,Jamar Ricketts,OB,35,22.906228610540726
+San Jose Earthquakes,Tommy Thompson,OB,55,29.097878165639973
+San Jose Earthquakes,Paul Marie,OB,486,29.490075290896645
+San Jose Earthquakes,Vitor Costa,OB,1435,30.21902806297057
+San Jose Earthquakes,Carlos Akapo,OB,1081,31.522929500342233
+San Jose Earthquakes,Ousseni Bouda,S,34,24.39425051334702
+San Jose Earthquakes,Preston Judd,S,628,25.31211498973306
+San Jose Earthquakes,Jeremy Ebobisse,S,1554,27.59685147
+San Jose Earthquakes,Will Richmond,W,2,24.45448323066393
+San Jose Earthquakes,Benjamin Kikanovic,W,411,24.70362765229295
+San Jose Earthquakes,Cristian Espinoza,W,1575,29.462696783025326
+San Jose Earthquakes,Amahl Pellegrino,W,1039,34.25462012320329
+Seattle Sounders FC,Pedro De la Vega,AM,112,23.61601642710472
+Seattle Sounders FC,Jackson Ragen,CB,2092,25.98836413415469
+Seattle Sounders FC,Jon Bell,CB,438,27.06776180698152
+Seattle Sounders FC,Nathan Cardoso,CB,75,29.35318275154004
+Seattle Sounders FC,Yeimar Gómez Andrade,CB,1674,32.22176591
+Seattle Sounders FC,Dylan Teves,CM,73,24.35044490075291
+Seattle Sounders FC,Obed Vargas,DM,1069,19.125256673511295
+Seattle Sounders FC,Danny Leyva,DM,97,21.37508556
+Seattle Sounders FC,Joshua Atencio,DM,534,22.635181382614647
+Seattle Sounders FC,João Paulo Mior,DM,1208,33.53388090349076
+Seattle Sounders FC,Andrew Thomas,GK,420,26.05133470225873
+Seattle Sounders FC,Stefan Frei,GK,1827,38.41615331964408
+Seattle Sounders FC,Reed Baker-Whiting,OB,263,19.470910335386723
+Seattle Sounders FC,Cody Baker,OB,281,20.700889801505816
+Seattle Sounders FC,Sota Kitahara,OB,90,21.689938398357288
+Seattle Sounders FC,Nouhou Tolo,OB,1548,27.240930869267626
+Seattle Sounders FC,Alex Roldan,OB,1269,28.145106091718002
+Seattle Sounders FC,Daniel Musovski,S,252,30.372347707049965
+Seattle Sounders FC,Georgi Minoungou,W,90,22.15331964
+Seattle Sounders FC,Léo Chú,W,447,24.45448323066393
+Seattle Sounders FC,Paul Rothrock,W,239,25.695414099931554
+Seattle Sounders FC,Cristian Roldan,W,520,29.295687885010267
+Seattle Sounders FC,Jordan Morris,W,849,29.90075290896646
+Sporting Kansas City,Erik Thommy,AM,628,30.084188911704313
+Sporting Kansas City,Robert Voloder,CB,1131,23.36413415468857
+Sporting Kansas City,Robert Castellanos,CB,833,26.358658453114305
+Sporting Kansas City,Daniel Rosero,CB,1532,30.372347707049965
+Sporting Kansas City,Andreu Fontàs,CB,1274,34.84873374401095
+Sporting Kansas City,Memo Rodriguez,CM,321,28.73100616016427
+Sporting Kansas City,Nemanja Radoja,CM,1393,31.618754277891856
+Sporting Kansas City,John Pulskamp,GK,270,23.418891170431213
+Sporting Kansas City,Tim Melia,GK,2070,38.34770704996578
+Sporting Kansas City,Jake Davis,OB,1312,22.711841204654345
+Sporting Kansas City,Zorhan Bassong,OB,619,25.369609856262834
+Sporting Kansas City,Tim Leibold,OB,1630,30.804928131416837
+Sporting Kansas City,Khiry Shelton,OB,511,31.23271731690623
+Sporting Kansas City,William Agada,S,1259,25.00752908966461
+Sporting Kansas City,Alan Pulido,S,1046,33.53388090349076
+Sporting Kansas City,Alenis Vargas,W,392,20.79397672826831
+Sporting Kansas City,Stephen Afrifa,W,258,23.583162217659137
+Sporting Kansas City,Johnny Russell,W,1103,34.44900752908966
+St. Louis City,Indiana Vassilev,AM,465,23.591375770020534
+St. Louis City,Michael Wentzel,CB,173,22.44353183
+St. Louis City,Kyle Hiebert,CB,426,27.139630390143736
+St. Louis City,Joshua Yaro,CB,682,29.83778234086242
+St. Louis City,Jake NeWinski,CB,182,29.92539356605065
+St. Louis City,Joakim Nilsson,CB,940,30.618754277891856
+St. Louis City,Jake Girdwood-Reich,CM,7,20.317590691307323
+St. Louis City,Chris Durkin,DM,996,24.61327857631759
+St. Louis City,Njabulo Blom,DM,550,24.774811772758383
+St. Louis City,Eduard Löwen,DM,447,27.643394934976044
+St. Louis City,Benjamin Lundt,GK,149,28.98836413415469
+St. Louis City,Roman Bürki,GK,2101,33.84873374401095
+St. Louis City,Jayden Reid,OB,270,23.05681040383299
+St. Louis City,Akil Watts,OB,291,24.62422997946612
+St. Louis City,Tomas Totland,OB,1770,25.97741273100616
+St. Louis City,Caden Glover,S,53,17.53388090349076
+St. Louis City,Klauss,S,1399,27.553045859000683
+St. Louis City,Cedric Teuchert,S,62,27.681724845995895
+St. Louis City,Hosei Kijima,W,258,22.21902806297057
+St. Louis City,Célio Pompeu,W,636,24.777549623545518
+St. Louis City,John Klein,W,123,24.840520191649556
+St. Louis City,Rasmus Alm,W,498,29.092402464065707
+Toronto FC,Cassius Mailula,AM,12,23.27104722792608
+Toronto FC,Derrick Etienne,AM,356,27.81861739
+Toronto FC,Jonathan Osorio,AM,548,32.271047227926076
+Toronto FC,Lorenzo Insigne,AM,681,33.29295003422313
+Toronto FC,Nicksoen Gomis,CB,1832,22.514715947980836
+Toronto FC,Aimé Mabika,CB,311,26.09514031485284
+Toronto FC,Raoul Petretta,CB,697,27.490075290896645
+Toronto FC,Sigurd Rosted,CB,1278,30.161533196440793
+Toronto FC,Shane O'Neill,CB,614,31.048596851471594
+Toronto FC,Kevin Long,CB,1738,34.08966461327858
+Toronto FC,Kosi Thompson,CM,403,21.646132785763175
+Toronto FC,Matthew Longstaff,CM,1072,24.49828884325804
+Toronto FC,Alonso Coello,CM,1142,24.93908281998631
+Toronto FC,Deybi Flores,CM,1707,28.26009582477755
+Toronto FC,Luka Gavran,GK,810,24.36413415468857
+Toronto FC,Sean Johnson,GK,1530,35.303901437371664
+Toronto FC,Kobe Franklin,OB,245,21.361396303901437
+Toronto FC,Richie Laryea,OB,159,29.700889801505816
+Toronto FC,Federico Bernardeschi,OB,871,30.591375770020534
+Toronto FC,Tyrese Spicer,OB,738,
+Toronto FC,Deandre Kerr,S,538,21.83504449007529
+Toronto FC,Charles Sharp,S,15,23.240930869267626
+Toronto FC,Prince Osei Owusu,S,1373,27.700889801505816
+Vancouver Whitecaps FC,Ranko Veselinović,CB,1864,25.490075290896645
+Vancouver Whitecaps FC,Tristan Blackmon,CB,1234,28.10609171800137
+Vancouver Whitecaps FC,Bjørn Inge Utvik,CB,1066,28.55852156057495
+Vancouver Whitecaps FC,Ralph Priso-Mbongue,CM,30,22.13347022587269
+Vancouver Whitecaps FC,Pedro Vite,CM,1334,22.531143052703626
+Vancouver Whitecaps FC,Sebastian Berhalter,CM,479,23.34223134839151
+Vancouver Whitecaps FC,Andrés Cubas,CM,1302,28.32854209445585
+Vancouver Whitecaps FC,Ali Ahmed,DM,287,23.944558521560573
+Vancouver Whitecaps FC,Yohei Takaoka,GK,2160,28.511978097193705
+Vancouver Whitecaps FC,Ryan Raposo,OB,455,25.542094455852155
+Vancouver Whitecaps FC,Sam Adekugbe,OB,112,29.67624914442163
+Vancouver Whitecaps FC,Nicolas Fleuriau,S,11,22.331279945242983
+Vancouver Whitecaps FC,Brian White,S,1591,28.62696783025325
+Vancouver Whitecaps FC,Damir Kreilach,S,274,35.427104722792606
+Vancouver Whitecaps FC,Giuseppe Bovalina,W,64,19.856947296372347
+Vancouver Whitecaps FC,Levonte Johnson,W,162,25.514715947980836
+Vancouver Whitecaps FC,Ryan Gauld,W,590,28.761122518822724
+Vancouver Whitecaps FC,Fafà Picault,W,447,33.57221081451061
